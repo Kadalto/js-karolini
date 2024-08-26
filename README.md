@@ -1,7 +1,8 @@
 #meunome é karolini G D
 
 Estou estudando na Alura
-Estou me desenvolvendo nalinguagem JavaScript
+
+Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
